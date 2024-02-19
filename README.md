@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CypherYT
+- 👋 Hi, I’m HARITH ANAQI
 - 👀 I’m interested in code
-- 🌱 I’m currently learning how to walk 
-- 💞️ I’m looking to collaborate on  github
-- 📫 How to reach me FB/Cypher YT
+- 🌱 I’m currently learning C++ 
+- 💞️ I’m looking to collaborate on Github
+- 📫 How to reach me ig @ harith_anaqii
 
 <!---
 CypherYT/CypherYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
